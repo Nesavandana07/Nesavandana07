@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Nesavandana07/Nesavandana07/main/assets/masterhead.gif" width="100%" />
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/Nesavandana07/Nesavandana07/main/assets/coding.gif" />
+<img align="right" alt="Coding" width="480" src="https://raw.githubusercontent.com/Nesavandana07/Nesavandana07/main/assets/coding.gif" />
 
 <h1 align="left">Hi 👋, I'm Nesavandana</h1>
 
@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nesavandana07" alt="nesavandana07" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesavandana07&theme=tokyonight&hide_border=true" alt="nesavandana07" />
 </p>
 
 - 📫 How to reach me: **nesavandana07@gmail.com**
