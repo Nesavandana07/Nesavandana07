@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Nesavandana07/Nesavandana07/main/assets/masterhead.gif" width="100%" />
 </p>
 
-<img align="right" alt="Coding" width="480" src="https://raw.githubusercontent.com/Nesavandana07/Nesavandana07/main/assets/coding.gif" />
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/Nesavandana07/Nesavandana07/main/assets/coding.gif" />
 
 <h1 align="left">Hi 👋, I'm Nesavandana</h1>
 
