@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Nesavandana07/Nesavandana07/main/assets/masterhead.gif" width="100%" />
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/Nesavandana07/Nesavandana07/main/assets/coding.gif" />
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/Nesavandana07/Nesavandana07/main/assets/coding.gif" />
 
 <h1 align="left">Hi 👋, I'm Nesavandana</h1>
 
@@ -14,13 +14,13 @@
   <img src="https://komarev.com/ghpvc/?username=nesavandana07&label=Profile%20views&color=0e75b6&style=flat" alt="nesavandana07" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nesavandana07&theme=tokyonight&hide_border=true" alt="nesavandana07" />
-</p>
-
 - 📫 How to reach me: **nesavandana07@gmail.com**
 
 <br clear="left"/>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=nesavandana07&theme=tokyonight&hide_border=true" alt="nesavandana07" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
